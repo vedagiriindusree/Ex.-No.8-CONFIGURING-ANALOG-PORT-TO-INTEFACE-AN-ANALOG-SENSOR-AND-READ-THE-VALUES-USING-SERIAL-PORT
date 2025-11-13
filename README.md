@@ -467,7 +467,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  ```
 ## Output  :
 
-<img width="897" height="843" alt="image" src="https://github.com/user-attachments/assets/f214fcfa-fe69-4f29-8c74-c1ec200ccfb0" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fd8273d7-1130-4e2c-be36-81ea9327644e" />
+
 
 <img width="897" height="843" alt="image" src="https://github.com/user-attachments/assets/dedcb731-adfe-4fb4-929c-54daeac50bc9" />
 
